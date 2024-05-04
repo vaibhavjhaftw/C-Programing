@@ -12,7 +12,7 @@ int offer_2_amount = 1000;
 float offer_2_discount = 0.20;
 int free_gift_amount = 2000;
 
-// gst
+// GST to lagega re babaaaa
 float gst_rate = 0.05;
 
 // Function to print menu 
